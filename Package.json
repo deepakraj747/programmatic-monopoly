@@ -1,25 +1,14 @@
 {
-  "name": "seail-monopoly",
-  "version": "0.1.0",
-  "private": true,
+  "name": "programmatic-monopoly",
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.0.0",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "@supabase/supabase-js": "latest",
-    "openai": "latest",
-    "@mendable/firecrawl-js": "latest",
-    "lucide-react": "latest"
-  },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
