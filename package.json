@@ -9,6 +9,9 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "@mendable/firecrawl-js": "latest",
+    "openai": "latest",
+    "@supabase/supabase-js": "latest"
   }
 }
